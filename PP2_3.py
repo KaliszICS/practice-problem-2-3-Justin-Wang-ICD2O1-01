@@ -47,6 +47,8 @@ def q3():
       print("No Triangle")
    elif num1 + num3 != num2:
       print("No Triangle")
+   else:
+      print("No Triangle")
 
 
 
