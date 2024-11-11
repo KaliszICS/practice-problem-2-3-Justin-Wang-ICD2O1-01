@@ -15,7 +15,7 @@ def q1():
 
 def q2(): 
   #Write Assignment code here
-  num= input("Input an integer: ")
+  num= input("In: ")
   num= int(num)
   if num > 0:
       print(f"{num} is positive")
@@ -24,9 +24,9 @@ def q2():
 
 
 def q3():
-   num1= input("Input a number: ")
-   num2= input("Input a number: ")
-   num3= input("Input a number: ")
+   num1= input("In: ")
+   num2= input("In: ")
+   num3= input("In: ")
    num1 = float(num1)
    num2 = float(num2)
    num3 = float(num3)
