@@ -2,7 +2,7 @@
 
 def q1(): 
   #Write Assignment code here
-  word= input("Input a word: ")
+  word= input("In: ")
   if word[0:-1] == "y":
      print("-ies")
   elif word[0:-2] == "ey":
