@@ -4,10 +4,10 @@ def q1():
   #Write Assignment code here
   word= input("In: ")
   word= str(word)
-  if word[-1:] == "y":
-     print("-ies")
-  elif word[-2:] == "ey":
+  if word[-2:] == "ey":
      print("-eys")
+  elif word[-1:] == "y":
+     print("-ies")
   elif word[-3:] == "ife":
      print("-ives")
   else:
