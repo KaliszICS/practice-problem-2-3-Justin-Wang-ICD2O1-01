@@ -27,9 +27,9 @@ def q3():
    num1= input("Input a number: ")
    num2= input("Input a number: ")
    num3= input("Input a number: ")
-   num1 = int(num1)
-   num2 = int(num2)
-   num3 = int(num3)
+   num1 = float(num1)
+   num2 = float(num2)
+   num3 = float(num3)
    if num1 == num2 == num3:
       print("Equilateral")
    elif num1 == num2 and num1 != num3:
@@ -54,3 +54,4 @@ def q3():
 #Comment out the following code when running your tests
 #q1()
 #q2()
+#q3()
