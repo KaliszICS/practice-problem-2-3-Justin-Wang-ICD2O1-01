@@ -25,9 +25,9 @@ def q2():
 
 
 def q3():
-   num1= input("In: ")
-   num2= input("In: ")
-   num3= input("In: ")
+   num1= input("Input a number: ")
+   num2= input("Input a number: ")
+   num3= input("Input a number: ")
    num1 = float(num1)
    num2 = float(num2)
    num3 = float(num3)
